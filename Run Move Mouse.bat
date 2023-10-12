@@ -1,0 +1,1 @@
+py 'G:\Python\Projects\Mouse\move_mouse_cursor.py'
